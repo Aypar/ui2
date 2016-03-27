@@ -1,1 +1,1 @@
-{"version":3,"file":"Widget.js","sourceRoot":"","sources":["Widget.ts"],"names":[],"mappings":"AAAA;;GAEG;AACH;IAAA;IAGA,CAAC;IAAD,aAAC;AAAD,CAAC,AAHD,IAGC"}
+{"version":3,"file":"Widget.js","sourceRoot":"","sources":["Widget.ts"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;YAYA;gBAAA;gBAGA,CAAC;gBATD;oBAAC,gBAAS,CAAC;wBACP,QAAQ,EAAE,gBAAgB;wBAC1B,QAAQ,EAAE,gCAAgC;wBAC1C,UAAU,EAAC,CAAC,WAAI,CAAC;qBAEpB,CAAC;;0BAAA;gBAIF,aAAC;YAAD,CAAC,AAHD,IAGC;YAHD,2BAGC,CAAA"}

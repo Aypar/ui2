@@ -1,7 +1,16 @@
 /**
- * Created by Aypar on 27.3.2016.
+ * Created by Aypar on 13.3.2016.
  */
-class Widget
+import {Component} from 'angular2/core';
+import {Part} from '../part/Part'
+
+@Component({
+    selector: 'dynamic-widget',
+    template: '<dynamic-part> </dynamic-part>',
+    directives:[Part]
+
+})
+export class Widget
 {
-    pars:Array<Part>
+
 }

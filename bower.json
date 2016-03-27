@@ -1,7 +1,8 @@
 {
   "name": "ui2",
   "dependencies": {
-    "underscore": "latest"
-
+    "underscore": "latest",
+    "bootstrap": "latest",
+    "fontawesome": "latest"
   }
 }
