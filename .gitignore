@@ -1,3 +1,13 @@
-node_modules/
+#intellij files
 .idea/
+
+#node files
+node_modules/
+
+#ts files
 typings/
+
+#bower files
+.bower-cache/
+.bower-registry/
+.bower-tmp/

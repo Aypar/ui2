@@ -1,0 +1,7 @@
+{
+  "name": "ui2",
+  "dependencies": {
+    "underscore": "latest"
+
+  }
+}
